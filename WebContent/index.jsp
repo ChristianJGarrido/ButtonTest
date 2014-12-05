@@ -19,7 +19,7 @@
 				var unit = $('#Unit').val();
 				var language = $('#Lang').val();
 				var div = $('#Div').val();
-				alert(unit+language+div);
+				//alert(unit+language+div);
 				if (sessionStorage.siteId) {
 				    sessionStorage.siteId = sid;
 				} else {
