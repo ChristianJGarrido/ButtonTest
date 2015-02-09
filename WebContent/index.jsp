@@ -70,7 +70,7 @@
   		<td>
   		</td>
   		<td>
-  		<input type="button" value="Submit" onclick="siteIdClick()">
+  		<input type="submit" value="Submit" onclick="siteIdClick()">
   		</td>
   		</tr>
   		</tbody>
